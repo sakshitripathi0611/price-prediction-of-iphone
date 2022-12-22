@@ -1,1 +1,1 @@
-# price-prediction-of-iphone
+# Predict-the-price-of-iphone
